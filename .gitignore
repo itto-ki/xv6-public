@@ -14,3 +14,9 @@ kernel
 kernelmemfs
 mkfs
 .gdbinit
+
+*.pdf
+x.ps
+GPATH
+GRTAGS
+GTAGS
